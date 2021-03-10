@@ -1,4 +1,5 @@
-## Puedes compilar y ejecutar todos los experimentos con **Ejecutar.bat** o **Ejecutar.sh** en función de si usas Linux o Windows.
+## Ejecución
+Puedes compilar y ejecutar todos los experimentos con **Ejecutar.bat** o **Ejecutar.sh** en función de si usas Linux o Windows.
 
 Si usais Windows
 ~~~shell
@@ -10,4 +11,5 @@ Si usais Linux
 ./Ejecutar.sh
 ~~~
 
+## Nota
 Nota de `9` obtenida con este proyecto
